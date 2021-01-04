@@ -8,11 +8,11 @@ Extra Trees Method for Predicting lncRNA-Disease Association Based on Multi-laye
 - scipy == 1.5.3
 - tensorflow == 1.15.0
 
-## Data
+# Data
 
 lda.csv is the lncRNA_disease association matrix.
 
-sl.csv is the drug similarity matrix of 240 diseases.
+sl.csv is the drug similarity matrix of 240 lncRNAs.
 
 sd.csv is the disease similarity matrix of 386 diseases.
 
